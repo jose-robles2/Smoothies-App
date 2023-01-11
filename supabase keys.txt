@@ -1,0 +1,11 @@
+Supa Smoothies keys: 
+database: dtAWgFkypN84I0GN
+
+project URL: https://ysyvzqkyehcjxjkzrhsc.supabase.co
+
+api key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlzeXZ6cWt5ZWhjanhqa3pyaHNjIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjY3NTI5NzIsImV4cCI6MTk4MjMyODk3Mn0.z3854pzkPejrokUxYuTyIn7bIU3kWgQAyDQ9GNj0TLs
+
+.env
+# store supabse info within env vars
+REACT_APP_SUPABASE_URL = https://ysyvzqkyehcjxjkzrhsc.supabase.co
+REACT_APP_ANON_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlzeXZ6cWt5ZWhjanhqa3pyaHNjIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjY3NTI5NzIsImV4cCI6MTk4MjMyODk3Mn0.z3854pzkPejrokUxYuTyIn7bIU3kWgQAyDQ9GNj0TLs
